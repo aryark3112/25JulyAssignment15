@@ -1,0 +1,10 @@
+﻿Advantages of QuickSort
+Quicksort has many advantages, such as being fast, easy to implement, and in-place, which means that it does not require extra space. 
+
+Disadvantages of QuickSort
+Quicksort also has some disadvantages, such as being unstable, sensitive to the choice of the pivot, and vulnerable to the worst case. 
+Quicksort can also cause stack overflow if the recursion depth is too high.
+
+Performance Compared to other Sorting algorithms
+Quicksort is faster than most other comparison-based sorting algorithms, such as bubble sort, insertion sort, and selection sort, which have a worst case running time of O(n^2). 
+Quicksort is also faster than merge sort, which has a worst case running time of O(n log n), but requires O(n) extra space.
